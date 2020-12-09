@@ -16,7 +16,7 @@ What's new ? Exercises, pre-saved training, Q&A, ...
 
 
 ## Lab 5 LSTM
-[Based on ....]()
+[Based on ....](https://colab.research.google.com/drive/1jUKFWiUJ4T9e-2MOk9WfCvAvKlVjrVje?usp=sharing)
 
 ### About LSTMs
 The CNN Long Short-Term Memory Network or CNN LSTM for short is an LSTM architecture specifically designed for sequence prediction problems with spatial inputs, like images or videos.
