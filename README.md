@@ -13,3 +13,11 @@ What's new ? Exercises, pre-saved training, Q&A, ...
 
 ## Lab 4
 [Based on original Segmentation Unet....](https://colab.research.google.com/drive/1a58_AAts5GetXDl6ojXYXTe6usIbTMUf?usp=sharing)
+
+
+## Lab 5 LSTM
+[Based on ....]()
+
+### About LSTMs
+The CNN Long Short-Term Memory Network or CNN LSTM for short is an LSTM architecture specifically designed for sequence prediction problems with spatial inputs, like images or videos.
+* [An introduction to ConvLSTM](https://medium.com/neuronio/an-introduction-to-convlstm-55c9025563a7)
