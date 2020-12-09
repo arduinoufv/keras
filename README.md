@@ -10,3 +10,6 @@ What's new ? Exercises, pre-saved training, Q&A, ...
 
 ## Lab 3
 [Based on original ...](https://colab.research.google.com/drive/1OdD34nvfzGAUjWvIpUh3XPULJ2eeyQSS?usp=sharing) from [Deeplizard Video](https://www.youtube.com/watch?v=qFJeN9V1ZsI&t=1393s)
+
+## Lab 4
+[Based on original Segmentation Unet....](https://colab.research.google.com/drive/1a58_AAts5GetXDl6ojXYXTe6usIbTMUf?usp=sharing)
