@@ -28,5 +28,8 @@ The CNN Long Short-Term Memory Network or CNN LSTM for short is an LSTM architec
 [Tutorial Lex Fridman- MIT](https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb)
 
 ## Lab .... 3 labs in this link
-[](http://www.thoughtsymmetry.com/CNN-course-code/)
+[Introduction to Convolutional Neural Networks Course](http://www.thoughtsymmetry.com/CNN-course-code/)
+
+[verificar...](https://thedatafrog.com/en/articles/deep-learning-keras/)
+
 
