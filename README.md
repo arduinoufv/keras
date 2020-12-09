@@ -21,3 +21,9 @@ What's new ? Exercises, pre-saved training, Q&A, ...
 ### About LSTMs
 The CNN Long Short-Term Memory Network or CNN LSTM for short is an LSTM architecture specifically designed for sequence prediction problems with spatial inputs, like images or videos.
 * [An introduction to ConvLSTM](https://medium.com/neuronio/an-introduction-to-convlstm-55c9025563a7)
+
+
+## Lab 6 - Deep Learning Basics...
+
+[Tutorial Lex Fridman- MIT](https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb)
+
