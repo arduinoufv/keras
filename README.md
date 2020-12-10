@@ -16,7 +16,11 @@ Keras Course
 * What's new ? Exercises, pre-saved training, Q&A, ...
 
 ## Lab 3
-[Based on original ...](https://colab.research.google.com/drive/1OdD34nvfzGAUjWvIpUh3XPULJ2eeyQSS?usp=sharing) from [Deeplizard Video](https://www.youtube.com/watch?v=qFJeN9V1ZsI&t=1393s)
+[Python Deep Learning and Neural Networks for Beginners Tutorial](https://colab.research.google.com/drive/1OdD34nvfzGAUjWvIpUh3XPULJ2eeyQSS?usp=sharing) from [Deeplizard Video](https://www.youtube.com/watch?v=qFJeN9V1ZsI&t=1393s)
+
+ * Drug tested on individuals from ages 13 to 100, 2100 participants
+ * 95% of patientes 65 or older experienced side effects, and 95% of patients under 65 experienced no side effects.
+
 
 ## Lab 4
 [Based on original Segmentation Unet....](https://colab.research.google.com/drive/1a58_AAts5GetXDl6ojXYXTe6usIbTMUf?usp=sharing)
