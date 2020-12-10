@@ -20,7 +20,8 @@ Keras Course
 
  * Drug tested on individuals from ages 13 to 100, 2100 participants
  * 95% of patientes 65 or older experienced side effects, and 95% of patients under 65 experienced no side effects.
-
+ * 3 dense layers, 642 parameters;
+ * Confusion matrix, Python programming, load/save models;
 
 ## Lab 4
 [Based on original Segmentation Unet....](https://colab.research.google.com/drive/1a58_AAts5GetXDl6ojXYXTe6usIbTMUf?usp=sharing)
