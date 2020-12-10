@@ -9,9 +9,11 @@ Keras Course
 * We get to ~96% validation accuracy after training for 50 epochs on the full dataset.
 * 209s×50 epoches =10450s=174min10s=3 hours.
 * What's new ? Exercises, pre-saved training, Q&A, ...
+
 ## Lab 2
-[Based on original ....](https://colab.research.google.com/drive/1Fc346uyjXi0DBgFbSGeanE81htQ0QZ65?usp=sharing)
-What's new ? Exercises, pre-saved training, Q&A, ...
+[Keras Code Sample: Simple MNIST convnet](https://colab.research.google.com/drive/1Fc346uyjXi0DBgFbSGeanE81htQ0QZ65?usp=sharing)
+* 60000 images, 34k parameters 3-layers Convnet
+* What's new ? Exercises, pre-saved training, Q&A, ...
 
 ## Lab 3
 [Based on original ...](https://colab.research.google.com/drive/1OdD34nvfzGAUjWvIpUh3XPULJ2eeyQSS?usp=sharing) from [Deeplizard Video](https://www.youtube.com/watch?v=qFJeN9V1ZsI&t=1393s)
