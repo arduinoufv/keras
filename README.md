@@ -2,8 +2,13 @@
 Keras Course
 
 ## Lab 1 
-[Based on original Keras example for ....](https://colab.research.google.com/drive/1MrVHG5B0xJB83G4hz8fSfgBCn7PwHAoh?usp=sharing)
-What's new ? Exercises, pre-saved training, Q&A, ...
+[Keras Code Sample: Image classification from scratch](https://colab.research.google.com/drive/1MrVHG5B0xJB83G4hz8fSfgBCn7PwHAoh?usp=sharing)
+* Training an image classifier from scratch on the Kaggle Cats vs Dogs dataset
+* 23410 images 180x180, data processing and augmentation
+* Small version of the [Xception network, 2016, Francois Chollet](https://arxiv.org/abs/1610.02357)
+* We get to ~96% validation accuracy after training for 50 epochs on the full dataset.
+* 209s×50 epoches =10450s=174min10s=3 hours.
+* What's new ? Exercises, pre-saved training, Q&A, ...
 ## Lab 2
 [Based on original ....](https://colab.research.google.com/drive/1Fc346uyjXi0DBgFbSGeanE81htQ0QZ65?usp=sharing)
 What's new ? Exercises, pre-saved training, Q&A, ...
