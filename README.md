@@ -44,4 +44,11 @@ The CNN Long Short-Term Memory Network or CNN LSTM for short is an LSTM architec
 
 [verificar...](https://thedatafrog.com/en/articles/deep-learning-keras/)
 
+### TO DO
+
+## Transfer Learning
+
+* [video 5 flowers add to google pre-trained CNN](https://www.youtube.com/watch?v=LsdxvjLWkIY)
+
+
 
