@@ -50,5 +50,12 @@ The CNN Long Short-Term Memory Network or CNN LSTM for short is an LSTM architec
 
 * [video 5 flowers add to google pre-trained CNN](https://www.youtube.com/watch?v=LsdxvjLWkIY)
 
+## Keras oficial tutorial 
+
+### [Intro to Keras for Engineers](https://colab.research.google.com/drive/1lWUGZarlbORaHYUZlF9muCgpPl8pEvve#scrollTo=zKWZuVtoZRKZ)
+ * Data loading & preprocessing
+ * Building models with the Keras Functional API - mnist
+ 
+
 
 
