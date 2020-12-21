@@ -57,5 +57,8 @@ The CNN Long Short-Term Memory Network or CNN LSTM for short is an LSTM architec
  * Building models with the Keras Functional API - mnist
  
 
+## Code Basic Repository (+videos)
+
+[Code Basics Deep Learning](https://github.com/codebasics/py/tree/master/DeepLearningML)
 
 
