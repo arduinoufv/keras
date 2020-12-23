@@ -62,3 +62,12 @@ The CNN Long Short-Term Memory Network or CNN LSTM for short is an LSTM architec
 [Code Basics Deep Learning](https://github.com/codebasics/py/tree/master/DeepLearningML)
 
 
+
+
+http://introtodeeplearning.com/
+http://karpathy.github.io/2019/04/25/recipe/
+https://towardsdatascience.com/tensorboard-visualizing-learning-ad1b6667585
+https://medium.com/neuronio/using-tensorboard-e3906a5798e6
+https://www.datacamp.com/community/tutorials/tensorboard-tutorial
+https://machinelearningmastery.com/how-to-develop-a-conditional-generative-adversarial-network-from-scratch/
+https://www.pyimagesearch.com/2020/11/16/gans-with-keras-and-tensorflow/
