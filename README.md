@@ -64,10 +64,28 @@ The CNN Long Short-Term Memory Network or CNN LSTM for short is an LSTM architec
 
 
 
-http://introtodeeplearning.com/
-http://karpathy.github.io/2019/04/25/recipe/
-https://towardsdatascience.com/tensorboard-visualizing-learning-ad1b6667585
-https://medium.com/neuronio/using-tensorboard-e3906a5798e6
-https://www.datacamp.com/community/tutorials/tensorboard-tutorial
-https://machinelearningmastery.com/how-to-develop-a-conditional-generative-adversarial-network-from-scratch/
-https://www.pyimagesearch.com/2020/11/16/gans-with-keras-and-tensorflow/
+## TO DO
+
+[MIT Deep Learning Course](http://introtodeeplearning.com/)
+
+
+[A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
+
+### Tensor Board
+
+[TensorBoard: Visualizing Learning 2017](https://towardsdatascience.com/tensorboard-visualizing-learning-ad1b6667585)
+
+[Using Tensorboard, Bruno Eidi Nishimoto, Dec 17, 2018](https://medium.com/neuronio/using-tensorboard-e3906a5798e6)
+
+[Thushan Ganegedara, June 6th, 2018, TensorBoard Tutorial](https://www.datacamp.com/community/tutorials/tensorboard-tutorial)
+
+[Tensorboard Colab](https://colab.research.google.com/github/tensorflow/tensorboard/blob/master/docs/tensorboard_in_notebooks.ipynb#scrollTo=hzm9DNVILxJe)
+
+
+### GAN
+[How to Develop a Conditional GAN (cGAN) From Scratch](https://machinelearningmastery.com/how-to-develop-a-conditional-generative-adversarial-network-from-scratch/)
+
+[GANs with Keras and TensorFlow 2020](https://www.pyimagesearch.com/2020/11/16/gans-with-keras-and-tensorflow/)
+
+###
+
