@@ -35,6 +35,22 @@ The CNN Long Short-Term Memory Network or CNN LSTM for short is an LSTM architec
 * [An introduction to ConvLSTM](https://medium.com/neuronio/an-introduction-to-convlstm-55c9025563a7)
 
 
+## Lab on Edge Devices
+
+[Person detetion, Keras, colad, K210, TFlite and RPI](https://www.seeedstudio.com/blog/2020/04/25/axelerate-keras-based-framework-for-ai-on-the-edge/)
+
+[K210, Colab, Mobinet](https://colab.research.google.com/drive/1mirG8BSoB3k87mh-qyY3-8-ZXj0XB6h6)
+
+[mnist colab k210](https://colab.research.google.com/github/ashitani/jupyter_examples/blob/master/mnist_keras_maixpy_colab.ipynb)
+
+[Many links m5stickV](https://github.com/elloza/awesome-k210)
+
+to do - https://lemariva.com/blog/2020/01/maixpy-object-detector-mobilenet-and-yolov2-sipeed-maix-dock
+
+https://blog.sipeed.com/p/680.html
+
+
+
 ## Lab ... - Deep Learning Basics...
 
 [Tutorial Lex Fridman- MIT](https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb)
