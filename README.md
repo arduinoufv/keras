@@ -49,7 +49,8 @@ to do - https://lemariva.com/blog/2020/01/maixpy-object-detector-mobilenet-and-y
 
 https://blog.sipeed.com/p/680.html
 
-
+## Lab Celebrities GAN
+* [CelebA vanilla GAN](https://colab.research.google.com/drive/1f3GOVrhwBrtltnwKrafzaKL3fKtIKqgb?usp=sharing)
 
 ## Lab ... - Deep Learning Basics...
 
