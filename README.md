@@ -26,8 +26,14 @@ Keras Course
 ## Lab 4
 [Based on original Segmentation Unet....](https://colab.research.google.com/drive/1a58_AAts5GetXDl6ojXYXTe6usIbTMUf?usp=sharing)
 
+## MIT 6S191 Labs
 
-## Lab 5 LSTM
+[MIT 6S191 Labs on Colab](https://github.com/aamini/introtodeeplearning)
+* Lab 1: Intro to TensorFlow and Music Generation with RNNs
+* Lab 2: Computer Vision - Part 1: MNIST Digit Classification, Part 2: Debiasing Facial Detection Systems
+* Lab 3: Reinforcement Learning
+
+## Lab  LSTM
 [Based on ....](https://colab.research.google.com/drive/1jUKFWiUJ4T9e-2MOk9WfCvAvKlVjrVje?usp=sharing)
 
 ### About LSTMs
