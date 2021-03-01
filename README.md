@@ -36,6 +36,11 @@ Keras Course
 ## Lab  LSTM
 [Based on ....](https://colab.research.google.com/drive/1jUKFWiUJ4T9e-2MOk9WfCvAvKlVjrVje?usp=sharing)
 
+
+## lab FIT
+
+[https://keras.io/guides/customizing_what_happens_in_fit/](https://keras.io/guides/customizing_what_happens_in_fit/)
+
 ## Lab unsupervised learning
 
  [Semantic Image Clustering](https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/vision/ipynb/semantic_image_clustering.ipynb#scrollTo=xYmJFyDNzBwO)
