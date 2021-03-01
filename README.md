@@ -36,6 +36,16 @@ Keras Course
 ## Lab  LSTM
 [Based on ....](https://colab.research.google.com/drive/1jUKFWiUJ4T9e-2MOk9WfCvAvKlVjrVje?usp=sharing)
 
+## Lab unsupervised learning
+
+ [Semantic Image Clustering](https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/vision/ipynb/semantic_image_clustering.ipynb#scrollTo=xYmJFyDNzBwO)
+ 
+ This example demonstrates how to apply the Semantic Clustering by Adopting Nearest neighbors (SCAN) algorithm (Van Gansbeke et al., 2020) on the CIFAR-10 dataset. The algorithm consists of two phases:
+
+1. Self-supervised visual representation learning of images, in which we use the simCLR technique.
+2. Clustering of the learned visual representation vectors to maximize the agreement between the cluster assignments of neighboring vectors.
+
+
 ### About LSTMs
 The CNN Long Short-Term Memory Network or CNN LSTM for short is an LSTM architecture specifically designed for sequence prediction problems with spatial inputs, like images or videos.
 * [An introduction to ConvLSTM](https://medium.com/neuronio/an-introduction-to-convlstm-55c9025563a7)
