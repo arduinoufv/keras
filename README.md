@@ -24,6 +24,9 @@ Keras Course
  * Confusion matrix, Python programming, load/save models;
 
 ## Lab 4
+[Notice how the autoencoder does an amazing job at removing the noise from the input images.](https://colab.research.google.com/drive/1j1m44W-rqaVE1yrhVSxCAzd2L4lZJnyB?usp=sharing)
+
+## Lab 5
 [Based on original Segmentation Unet....](https://colab.research.google.com/drive/1a58_AAts5GetXDl6ojXYXTe6usIbTMUf?usp=sharing)
 
 ## MIT 6S191 Labs
